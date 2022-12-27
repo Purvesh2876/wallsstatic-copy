@@ -1,1 +1,1 @@
-# wallsstatic-copy
+# wallsstatic
